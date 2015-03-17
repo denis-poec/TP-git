@@ -1,4 +1,6 @@
 ### application.bat - 201x - Denis
-echo "Version 1.2"
-echo "Build : 10:00"
+version = "2"
+build_hour = "11H00"
+echo "version ${version}"
+echo "Build ${build_hour}"
 echo "Copyright company - 201x"
