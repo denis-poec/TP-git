@@ -1,5 +1,6 @@
 ### application.bat - 201x - Denis
-version = "2"
+### Updated by Laurent THOMAS
+version = "2.1"
 build_hour = "11H00"
 echo "version ${version}"
 echo "Build ${build_hour}"
